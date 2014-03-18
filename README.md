@@ -98,7 +98,7 @@ input is received hence this is a mandatory callback.
 has output to flush out to the standard out.  
 * `resultCallback`: An optional callback function that is called when the interpreter  
 has successfully evaluated a program and passed the resulting evaluated value.  
-* `errorCallback`: An optional callback function that is called if evaluatiing a  
+* `errorCallback`: An optional callback function that is called if evaluating a  
 program yielded an error and passed the error.  
 * `progress`: An optional callback function that is called repeatedly while loading  
 a language interpreter with the progress percentage.  
